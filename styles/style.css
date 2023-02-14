@@ -140,3 +140,39 @@ button {
     text-align: end;
     margin: 0;
 }
+
+.call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 72px
+}
+
+.blue-box {
+    background: #3882f6;
+    border-radius: 10px;
+    padding: 36px 100px;
+    min-width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-to-action h2 {
+    color: #F9FAF8;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.call-to-action p {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+}
+
+.blue-box button {
+    border: #e5e7eb;
+    border-style: solid;
+    border-width: 2px;
+}
