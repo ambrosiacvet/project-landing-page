@@ -1,5 +1,5 @@
 # project-landing-page
 
-The goal of this project is to reproduce the web page specified in reference-img. It doesn't need to be pixel exact, but it should show that I've learned to use flexbox effectively.
+The goal of this project is to reproduce the web page specified in reference-img. It doesn't need to be pixel exact, but it should show that I've learned to use flexbox effectively. This page will also not be responsive to mobile devices.
 
 -ambrosiacvet
